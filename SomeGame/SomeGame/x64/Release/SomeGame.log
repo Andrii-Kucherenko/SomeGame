@@ -1,0 +1,7 @@
+﻿  SomeGame.cpp
+D:\Programs\VS\Projects\SomeGame\SomeGame\SomeGame.cpp(164,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 139 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  SomeGame.vcxproj -> D:\Programs\VS\Projects\SomeGame\x64\Release\SomeGame.exe
